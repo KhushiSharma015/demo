@@ -1,3 +1,4 @@
 # demo
 This is my first Git Repository
-Author- Khushi Sharma
+<br>
+<b>Author- Khushi Sharma</b>
